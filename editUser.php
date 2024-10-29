@@ -124,7 +124,7 @@ $conn->close();
             <input type="text" class="form-control" id="name" name="name" value="<?php echo $user['name']; ?>" required>
         </div>
         <div class="form-group">
-            <label for="password">Password</label>
+            <label for="password">Password!</label>
             <input type="text" class="form-control" id="password" name="password" value="<?php echo $user['password']; ?>" required>
         </div>
         <div class="form-group">
